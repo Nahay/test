@@ -1,16 +1,15 @@
-﻿# Documentation Charlemagne VAE
-
-
 ## Sommaire
 
 - Partie Front
-	- Navigation
+	- [Navigation](https://github.com/Nahay/test/blob/master/guide-dev-client.md)
 	- Services
 	- Structure
 	- Style
 - Partie Back
 	- Models
 	- Routes
+
+<br/>
 
 ## Installation
 
